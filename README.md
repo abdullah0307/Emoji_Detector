@@ -1,3 +1,3 @@
 # Emoji_Detector
 
-![image1](angry.gif)
+![image1](angry1.gif)
