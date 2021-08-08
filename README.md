@@ -15,8 +15,10 @@ Following are the emotions it can predict:
 8: Surprised
 
 To install the requirements enter the following command in to your console
+
 ```pip install -r requirements.txt```
 
 To run the main script type:
-'''python main.py```
+
+```python main.py```
 
