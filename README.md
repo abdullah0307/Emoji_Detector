@@ -1,7 +1,7 @@
 # Emoji_Detector
 
 ![screen shot 1](1.png)
-![screen shot 2](2.png
+![screen shot 2](2.png)
 ![image1](angry1.gif)
 
 This is the project in which we predict mood of the inputted face image.
